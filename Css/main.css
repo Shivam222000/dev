@@ -5,6 +5,7 @@
     margin: 0px;
     
   }
+  t{margin-left: 100px;}
   .my_icon {
     width: 20px;
     height: 20px;
@@ -22,7 +23,7 @@ nav ol li{
 }
 nav ol li button{
   margin-left: 250px;
-  margin-right: 200px;
+  margin-right: 120px;
   color: rgba(0, 128, 0, 0.384);
 }
 nav ol li a{
@@ -32,6 +33,7 @@ nav ol li a{
 
 .contacts{
   float:right;
+  margin-right:125px ;
 }
 header div img{
   width: 200px;
@@ -60,4 +62,20 @@ header  div{
   color: white;
   padding: 180px;
 }
+.column {
+  float: left;
+  width: 28%;
+  padding: 20px;
+     
+}
+.row{
+  margin-left: 100px;
+}
 
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+  
+}
