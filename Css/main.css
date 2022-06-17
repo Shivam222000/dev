@@ -1,0 +1,21 @@
+
+ .top{
+    background-color: rgba(7, 141, 112, 0.638);
+    padding: 25px;
+    
+  }
+  .my_icon {
+    width: 20px;
+    height: 20px;
+}
+.li{display: inline;
+padding: 10px;
+text-decoration-color: aliceblue;}
+header div img{
+  width: 200px;
+  height: 200px;
+  margin-left: 100px;
+}
+header  div{
+  display:inline;
+}
