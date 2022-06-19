@@ -35,6 +35,7 @@ nav ol li a{
   text-decoration: none;
 }
 
+
 .contacts{
   float:right;
   margin-right:125px ;
@@ -90,6 +91,7 @@ header  div{
   width: 20%;
   padding: 20px;
   text-align: center;
+  
      
 }
 .r_w{
@@ -142,5 +144,5 @@ footer p { font-size:13px; color:#CCC; padding-bottom:0px; margin-bottom:8px;;}
 .social_footer_ul li img{width: 20px;height: 20px; }
 
 .social_footer_ul li i {  width:20px; height:20px; text-align:left;}
-.container p{ margin-left: 100px;}
+.container v{ margin-left: 100px;}
 
